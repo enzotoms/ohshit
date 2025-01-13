@@ -338,6 +338,12 @@ header
   {
     font-size: 3em;
   }
+
+  .content .text .point
+  {
+    font-size: 12px;
+    word-wrap: break-word;
+  }
   .btn 
   {
     padding: 15px 30px;
